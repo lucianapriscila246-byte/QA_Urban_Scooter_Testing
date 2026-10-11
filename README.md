@@ -1,4 +1,8 @@
-# Urban Scooter: Testes de Web e API 
+# Urban Scooter: Testes de Web e API | Web- und API-Tests
+
+**DE:** Abschlussprojekt des QA-Bootcamps (TripleTen). Entwurf und Durchführung von 52 Testfällen für das Webformular „Für wen ist der Scooter" (Vorname, Nachname, Adresse, U-Bahn-Station, Telefonnummer) in Chrome und Opera sowie 9 API-Testfälle zum Hinzufügen und Löschen von Kurieren. Bugs dokumentiert in Jira.
+
+---
 
 ## Descrição
 Projeto final do bootcamp de Analista de QA da TripleTen. O Urban Scooter é um aplicativo de aluguel de scooters. Neste projeto testei a interface web (formulário de pedido) e o backend (API de entregadores).
